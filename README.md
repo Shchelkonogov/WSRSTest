@@ -1,0 +1,2 @@
+# WSRSTest
+Тест RESTful сервиса
