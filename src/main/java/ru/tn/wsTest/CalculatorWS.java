@@ -4,6 +4,9 @@ import javax.jws.WebMethod;
 import javax.jws.WebParam;
 import javax.jws.WebService;
 
+/**
+ * Тест WS сервиса
+ */
 @WebService(serviceName = "CalculatorWS")
 public class CalculatorWS {
 
